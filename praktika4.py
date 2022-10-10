@@ -1,5 +1,2 @@
-a = "winter"
-b = "sommer"
-print(a , b)
-a, b = b , a
-print(a , b)
+names_a = {"Nicholas", "Mercy", "Michelle", "John", "Jeff", "Bosco", "Teddy", "Milly"}
+print(len(names_a))
